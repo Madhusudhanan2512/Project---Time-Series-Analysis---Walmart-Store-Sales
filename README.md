@@ -2,6 +2,8 @@
 
 This capstone project aims to solve Walmart's inventory management and demand forecasting challenges using time-series analysis and regression modeling. By leveraging historical sales and external variables like temperature, CPI, and unemployment, this project forecasts weekly sales for top-performing stores and evaluates key business insights.
 
+## Video Presentation: Click on this link: https://drive.google.com/file/d/1Ok5vu05VKmtrG3h1lRAOW5BL-fvVH-ku/view?usp=sharing
+
 ---
 
 ##  Problem Statement
